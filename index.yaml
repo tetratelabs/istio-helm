@@ -2,10 +2,79 @@ apiVersion: v1
 entries:
   tid:
   - apiVersion: v1
-    created: "2022-07-04T13:28:34.8700592-07:00"
+    created: "2022-07-04T15:22:44.1621169-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: b4828632b6fadaa6b956885932507ba7349701312b249d7a68da5a2f5fe801fa
+    digest: 3e02267648ffa5c62ba10a9ad83328d32fa371c8eb9f85a5df61224f1bb3513d
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tid
+    urls:
+    - tid-1.13.5.tgz
+    version: 1.13.5
+  - apiVersion: v1
+    created: "2022-07-04T15:22:44.155507-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: b5984028171ab56fc8580697954d09b4751798abf36813d64137286606fa4f74
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tid
+    urls:
+    - tid-1.13.3.tgz
+    version: 1.13.3
+  - apiVersion: v1
+    created: "2022-07-04T15:22:44.1491061-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: cfe2e4025fbee074f0d26adce8c9ee019b8d200750abedfd9a375fa4d92de54f
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tid
+    urls:
+    - tid-1.13.2.tgz
+    version: 1.13.2
+  - apiVersion: v1
+    created: "2022-07-04T15:22:44.1426046-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: a9405918556089b4dccdbd7a24a9f0676ee29a51565e0aca1cd44ba287be631b
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -25,10 +94,10 @@ entries:
     - tid-1.12.8.tgz
     version: 1.12.8
   - apiVersion: v1
-    created: "2022-07-04T13:28:34.8635911-07:00"
+    created: "2022-07-04T15:22:44.1360494-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 1aaa0b77e570f996eddaaeacae0d3bbe59928f708f70d9952e14c1c56423f0f1
+    digest: b7e38d42fbfdd7034c1b9932b3a2e2fdec468f25e660fa6537868c16ce025d8f
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -48,10 +117,10 @@ entries:
     - tid-1.12.6.tgz
     version: 1.12.6
   - apiVersion: v1
-    created: "2022-07-04T13:28:34.8570655-07:00"
+    created: "2022-07-04T15:22:44.1292213-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: bc1b7c6761241d67259b55cec52045755962e48c0fc80e92582700266f443f28
+    digest: bfd349da516e377e198e27dbcf2e1d2a5496cae5f5255d8328fef65628475107
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -71,10 +140,10 @@ entries:
     - tid-1.12.4.tgz
     version: 1.12.4
   - apiVersion: v1
-    created: "2022-07-04T13:28:34.8504843-07:00"
+    created: "2022-07-04T15:22:44.1229134-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: b4df6ddcc91053b3c909841217ca5b402447149b626913281671162d80a6cebc
+    digest: 0c2578c7a8d29354c7c7dee6424a8982ee5893ea9e65a3fc30d094a9c416bcae
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -94,10 +163,10 @@ entries:
     - tid-1.11.8.tgz
     version: 1.11.8
   - apiVersion: v1
-    created: "2022-07-04T13:28:34.8439925-07:00"
+    created: "2022-07-04T15:22:44.1162821-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 1b71c8346a0a6c844647bc7b2773351d05307637a61a43897cc9891d08142e99
+    digest: 0fc110cc68337a46f416c221e7546ecec1b8324f36bf252daff6c809dc0a6ffb
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -117,10 +186,10 @@ entries:
     - tid-1.11.6.tgz
     version: 1.11.6
   - apiVersion: v1
-    created: "2022-07-04T13:28:34.8373899-07:00"
+    created: "2022-07-04T15:22:44.1089018-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 472ebdb0e2d21ee28f1610b3e3bff59398c4eb9daee5a82d13bf0a7d7c2a7b4e
+    digest: af6c9453b2725bfecbbee5d9af0311f5883810f97d6a8985f7e7c7afb171d86c
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -140,10 +209,10 @@ entries:
     - tid-1.11.3.tgz
     version: 1.11.3
   - apiVersion: v1
-    created: "2022-07-04T13:28:34.8302388-07:00"
+    created: "2022-07-04T15:22:44.1018175-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 6ed2d9462d31f553051b4c3b8ad3e4a55eb44e88a81ca17f92d6143020fbb28d
+    digest: 498989b5fddba3122640024e2ccee4dfba4a8a95898662d7a39456bf026f18ae
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -160,6 +229,6 @@ entries:
       name: tetrate
     name: tid
     urls:
-    - tid-1.10.2.tgz
-    version: 1.10.2
-generated: "2022-07-04T13:28:34.8218195-07:00"
+    - tid-1.10.3.tgz
+    version: 1.10.3
+generated: "2022-07-04T15:22:44.0935748-07:00"
