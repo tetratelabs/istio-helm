@@ -160,6 +160,6 @@ entries:
       name: tetrate
     name: tid
     urls:
-    - tid-1.10.3.tgz
-    version: 1.10.3
+    - tid-1.10.2.tgz
+    version: 1.10.2
 generated: "2022-07-04T13:28:34.8218195-07:00"
