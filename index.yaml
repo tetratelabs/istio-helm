@@ -1,11 +1,11 @@
 apiVersion: v1
 entries:
-  tid:
+  tetrate-istio:
   - apiVersion: v1
-    created: "2022-07-04T15:22:44.1621169-07:00"
+    created: "2022-07-06T11:32:16.5602628-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 3e02267648ffa5c62ba10a9ad83328d32fa371c8eb9f85a5df61224f1bb3513d
+    digest: 054da79da5670b5cefb7f21487e54b0475126a349d773445582ca3f07dadd4ab
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -20,15 +20,15 @@ entries:
     maintainers:
     - email: tetrate@tetrate.io
       name: tetrate
-    name: tid
+    name: tetrate-istio
     urls:
-    - tid-1.13.5.tgz
+    - tetrate-istio-1.13.5.tgz
     version: 1.13.5
   - apiVersion: v1
-    created: "2022-07-04T15:22:44.155507-07:00"
+    created: "2022-07-06T11:32:16.5537975-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: b5984028171ab56fc8580697954d09b4751798abf36813d64137286606fa4f74
+    digest: 6655da5d65d428712a8155cee1989aafa045b15458bff0461be62a8db1ebf792
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -43,15 +43,15 @@ entries:
     maintainers:
     - email: tetrate@tetrate.io
       name: tetrate
-    name: tid
+    name: tetrate-istio
     urls:
-    - tid-1.13.3.tgz
+    - tetrate-istio-1.13.3.tgz
     version: 1.13.3
   - apiVersion: v1
-    created: "2022-07-04T15:22:44.1491061-07:00"
+    created: "2022-07-06T11:32:16.5471488-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: cfe2e4025fbee074f0d26adce8c9ee019b8d200750abedfd9a375fa4d92de54f
+    digest: c5579f260a6335b8e02bfe161dbdbc5d344dd0a551dc4b7ccfed3f381dc7a2b1
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -66,15 +66,15 @@ entries:
     maintainers:
     - email: tetrate@tetrate.io
       name: tetrate
-    name: tid
+    name: tetrate-istio
     urls:
-    - tid-1.13.2.tgz
+    - tetrate-istio-1.13.2.tgz
     version: 1.13.2
   - apiVersion: v1
-    created: "2022-07-04T15:22:44.1426046-07:00"
+    created: "2022-07-06T11:32:16.5404927-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: a9405918556089b4dccdbd7a24a9f0676ee29a51565e0aca1cd44ba287be631b
+    digest: 87a01a6edda252d0f09f16ae4db4ce392bdb54389cb489633111110167c107b0
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -89,15 +89,15 @@ entries:
     maintainers:
     - email: tetrate@tetrate.io
       name: tetrate
-    name: tid
+    name: tetrate-istio
     urls:
-    - tid-1.12.8.tgz
+    - tetrate-istio-1.12.8.tgz
     version: 1.12.8
   - apiVersion: v1
-    created: "2022-07-04T15:22:44.1360494-07:00"
+    created: "2022-07-06T11:32:16.5338326-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: b7e38d42fbfdd7034c1b9932b3a2e2fdec468f25e660fa6537868c16ce025d8f
+    digest: 71e67ad1af4c7d6f1846305a7f48f0665cccae092db07e6feb1e93fce2e7cda0
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -112,15 +112,15 @@ entries:
     maintainers:
     - email: tetrate@tetrate.io
       name: tetrate
-    name: tid
+    name: tetrate-istio
     urls:
-    - tid-1.12.6.tgz
+    - tetrate-istio-1.12.6.tgz
     version: 1.12.6
   - apiVersion: v1
-    created: "2022-07-04T15:22:44.1292213-07:00"
+    created: "2022-07-06T11:32:16.5269759-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: bfd349da516e377e198e27dbcf2e1d2a5496cae5f5255d8328fef65628475107
+    digest: 151adb8485201e6d1c358ac96b1f96b621162be4d364f21acb13b3da988a6081
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -135,15 +135,15 @@ entries:
     maintainers:
     - email: tetrate@tetrate.io
       name: tetrate
-    name: tid
+    name: tetrate-istio
     urls:
-    - tid-1.12.4.tgz
+    - tetrate-istio-1.12.4.tgz
     version: 1.12.4
   - apiVersion: v1
-    created: "2022-07-04T15:22:44.1229134-07:00"
+    created: "2022-07-06T11:32:16.5204351-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 0c2578c7a8d29354c7c7dee6424a8982ee5893ea9e65a3fc30d094a9c416bcae
+    digest: 3e4c810c4d2be961e036e356d6f31ff55809304f5d9a9ea52d8295666a647262
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -158,15 +158,15 @@ entries:
     maintainers:
     - email: tetrate@tetrate.io
       name: tetrate
-    name: tid
+    name: tetrate-istio
     urls:
-    - tid-1.11.8.tgz
+    - tetrate-istio-1.11.8.tgz
     version: 1.11.8
   - apiVersion: v1
-    created: "2022-07-04T15:22:44.1162821-07:00"
+    created: "2022-07-06T11:32:16.5135569-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 0fc110cc68337a46f416c221e7546ecec1b8324f36bf252daff6c809dc0a6ffb
+    digest: 6694866d11f231f16867a375496ac13d975ce800fb89f6c165f55e5cc0b73557
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -181,15 +181,15 @@ entries:
     maintainers:
     - email: tetrate@tetrate.io
       name: tetrate
-    name: tid
+    name: tetrate-istio
     urls:
-    - tid-1.11.6.tgz
+    - tetrate-istio-1.11.6.tgz
     version: 1.11.6
   - apiVersion: v1
-    created: "2022-07-04T15:22:44.1089018-07:00"
+    created: "2022-07-06T11:32:16.5045642-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: af6c9453b2725bfecbbee5d9af0311f5883810f97d6a8985f7e7c7afb171d86c
+    digest: 96bdb1b0cdb550c1778154f527af130987641b53ad26766534e3c561eb09692a
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -204,15 +204,15 @@ entries:
     maintainers:
     - email: tetrate@tetrate.io
       name: tetrate
-    name: tid
+    name: tetrate-istio
     urls:
-    - tid-1.11.3.tgz
+    - tetrate-istio-1.11.3.tgz
     version: 1.11.3
   - apiVersion: v1
-    created: "2022-07-04T15:22:44.1018175-07:00"
+    created: "2022-07-06T11:32:16.4967096-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 498989b5fddba3122640024e2ccee4dfba4a8a95898662d7a39456bf026f18ae
+    digest: 82036ab39447d827499a80895027deac31882c2320ac4497de0e642e6590261a
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -227,8 +227,8 @@ entries:
     maintainers:
     - email: tetrate@tetrate.io
       name: tetrate
-    name: tid
+    name: tetrate-istio
     urls:
-    - tid-1.10.3.tgz
+    - tetrate-istio-1.10.3.tgz
     version: 1.10.3
-generated: "2022-07-04T15:22:44.0935748-07:00"
+generated: "2022-07-06T11:32:16.4888652-07:00"
