@@ -1,11 +1,242 @@
 apiVersion: v1
 entries:
+  tetrate-fips:
+  - apiVersion: v1
+    created: "2022-07-13T11:37:38.8792817-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: 4ba9068d9c76cef8a6354ca1c35c65f50ab2cb1825569d6cfb37c5cf0bc959d8
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tetrate-fips
+    urls:
+    - tetrate-fips-1.13.5.tgz
+    version: 1.13.5
+  - apiVersion: v1
+    created: "2022-07-13T11:37:38.8723798-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: 1a53cb6327c6f6a00c61da39c252db8afcfb0b689953022bece7a731c51ad2b5
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tetrate-fips
+    urls:
+    - tetrate-fips-1.13.3.tgz
+    version: 1.13.3
+  - apiVersion: v1
+    created: "2022-07-13T11:37:38.8652664-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: 631dfc26f43bc33e30f6e315a079b7fa8db73190f253c6bf2e6ef3a46b2ed224
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tetrate-fips
+    urls:
+    - tetrate-fips-1.13.2.tgz
+    version: 1.13.2
+  - apiVersion: v1
+    created: "2022-07-13T11:37:38.8579757-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: 8f478a469911c83f7ced7aec5ab54db609eb0be6db1c8103a866bbae5ddc0115
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tetrate-fips
+    urls:
+    - tetrate-fips-1.12.8.tgz
+    version: 1.12.8
+  - apiVersion: v1
+    created: "2022-07-13T11:37:38.8512937-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: 31ecb007763601fe8d11c9d6aa34a55d63330c00fff364c0fd9c178bfa60257c
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tetrate-fips
+    urls:
+    - tetrate-fips-1.12.6.tgz
+    version: 1.12.6
+  - apiVersion: v1
+    created: "2022-07-13T11:37:38.8441696-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: 72113730f6c8b3666f9875f69509a20a7598050744e0cc5aaa40796c63b12689
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tetrate-fips
+    urls:
+    - tetrate-fips-1.12.4.tgz
+    version: 1.12.4
+  - apiVersion: v1
+    created: "2022-07-13T11:37:38.8375528-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: fdc1048742937f09fbc1e34e515f2c822a89c2548550aeb48d1b7187a4b973e1
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tetrate-fips
+    urls:
+    - tetrate-fips-1.11.8.tgz
+    version: 1.11.8
+  - apiVersion: v1
+    created: "2022-07-13T11:37:38.8291083-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: a098ea42633f3206fdfb63969768754020cc545682ba835d114f14f3aa421648
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tetrate-fips
+    urls:
+    - tetrate-fips-1.11.6.tgz
+    version: 1.11.6
+  - apiVersion: v1
+    created: "2022-07-13T11:37:38.8212274-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: 73b7061f28b6258f2efed04359c0f801489efce1e20ed591be36f106d92d1d94
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tetrate-fips
+    urls:
+    - tetrate-fips-1.11.3.tgz
+    version: 1.11.3
+  - apiVersion: v1
+    created: "2022-07-13T11:37:38.812503-07:00"
+    description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
+      Mesh.
+    digest: 88ce8e7b45fad227f5fc238a1f6ad1e5726c53f9144dd95e31cb67b0c8b37c8c
+    home: https://istio.tetratelabs.io
+    icon: https://istio.tetratelabs.io/images/getistio-favicon.png
+    keywords:
+    - istio
+    - istiod
+    - istio-discovery
+    - tid
+    - tetrate
+    - distribution
+    - networking
+    - infrastructure
+    maintainers:
+    - email: tetrate@tetrate.io
+      name: tetrate
+    name: tetrate-fips
+    urls:
+    - tetrate-fips-1.10.3.tgz
+    version: 1.10.3
   tetrate-gateway:
   - apiVersion: v1
     appVersion: 1.13.5
-    created: "2022-07-12T12:16:50.3692336-07:00"
+    created: "2022-07-13T11:37:38.8842458-07:00"
     description: Helm chart for deploying Istio Ingres Gateway
-    digest: a59302d5ad68e3a159890d88f14e4bb8095cbf68862f76355068521a414d557b
+    digest: 5013ded5435cc595f826dfca1a8bbf5cfcd5607fbc447d5b0dc4d821f1341b9a
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -26,9 +257,9 @@ entries:
     version: 1.13.5
   - apiVersion: v1
     appVersion: 1.13.3
-    created: "2022-07-12T12:16:50.368623-07:00"
+    created: "2022-07-13T11:37:38.8837224-07:00"
     description: Helm chart for deploying Istio Ingres Gateway
-    digest: a4d0896aea494a7d73ebf77f190347ff33346c58f3368f1b0e9dbdacd28306a4
+    digest: 8fda9138ee3ffef8a7b8c634f0944500959d1b82de05772aec8457ec93ad8d1d
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -49,9 +280,9 @@ entries:
     version: 1.13.3
   - apiVersion: v1
     appVersion: 1.13.2
-    created: "2022-07-12T12:16:50.3680531-07:00"
+    created: "2022-07-13T11:37:38.8832369-07:00"
     description: Helm chart for deploying Istio Ingres Gateway
-    digest: 645d0626d52c180c1803e216a4ff27f671fc0deefccd8f25d56ef26d2092b740
+    digest: 77578f0a12fe9370fecf2648b30e0edcee6d8e7dc14e5101dc5baeb45aad41f0
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -72,9 +303,9 @@ entries:
     version: 1.13.2
   - apiVersion: v1
     appVersion: 1.12.8
-    created: "2022-07-12T12:16:50.3673997-07:00"
+    created: "2022-07-13T11:37:38.8827195-07:00"
     description: Helm chart for deploying Istio Ingres Gateway
-    digest: 7d06e507a1fbfb7a605126333ed38ad7b851ee5e31b5216c75c1ee6ead4b3803
+    digest: a8da66c44f98b86cf6d4c3a14b0d1638f551e8bec0188df8ae65783ae1d49240
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -95,9 +326,9 @@ entries:
     version: 1.12.8
   - apiVersion: v1
     appVersion: 1.12.6
-    created: "2022-07-12T12:16:50.3668734-07:00"
+    created: "2022-07-13T11:37:38.8822178-07:00"
     description: Helm chart for deploying Istio Ingres Gateway
-    digest: 8f3345b8ebac51b1c8b3117ac4a2a728698120681bebce676601f17780a376a6
+    digest: e8a1c34e1468ea085ed5306cfa5da2eac41f305f2707bc6e6a307607d908310a
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -118,9 +349,9 @@ entries:
     version: 1.12.6
   - apiVersion: v1
     appVersion: 1.12.4
-    created: "2022-07-12T12:16:50.3663683-07:00"
+    created: "2022-07-13T11:37:38.8817114-07:00"
     description: Helm chart for deploying Istio Ingres Gateway
-    digest: 203c3a30b2cf0f91a734a11e1f40ec3d3435158cb3b18af62716b3c78166628c
+    digest: b3b2a8783e6ca210d47917b66569d467e039479141678f5c24e9036bad845ad3
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -141,9 +372,9 @@ entries:
     version: 1.12.4
   - apiVersion: v1
     appVersion: 1.11.8
-    created: "2022-07-12T12:16:50.3658013-07:00"
+    created: "2022-07-13T11:37:38.8812427-07:00"
     description: Helm chart for deploying Istio Ingres Gateway
-    digest: ba5ae6bc1a3df5147858c08c1f064366f644506a486fe44b58226765e3e4701a
+    digest: 0ba0b631e75e9678d0d4974b3cc5ff6f31dd427d2e6a476617505f93753c679c
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -164,9 +395,9 @@ entries:
     version: 1.11.8
   - apiVersion: v1
     appVersion: 1.11.6
-    created: "2022-07-12T12:16:50.3652816-07:00"
+    created: "2022-07-13T11:37:38.8807524-07:00"
     description: Helm chart for deploying Istio Ingres Gateway
-    digest: 5775d19fce6df4f9422108a4d45f8bffff080d3dcbcfc6587c7366e10638e30e
+    digest: 46ff71262da7b596850da1a288850b1d281cc649673646a1a3399c20f2e72cbe
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -187,9 +418,9 @@ entries:
     version: 1.11.6
   - apiVersion: v1
     appVersion: 1.11.3
-    created: "2022-07-12T12:16:50.3646139-07:00"
+    created: "2022-07-13T11:37:38.8802811-07:00"
     description: Helm chart for deploying Istio Ingres Gateway
-    digest: ed19cf5c455d833b9bf37f6fde820c9338947c10f486c4083615a7d40f0e4c40
+    digest: 778054e7de76ef67a3742db6284a8b15dacfb9d528293cadb1a6fea93870a556
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -210,9 +441,9 @@ entries:
     version: 1.11.3
   - apiVersion: v1
     appVersion: 1.10.3
-    created: "2022-07-12T12:16:50.3636209-07:00"
+    created: "2022-07-13T11:37:38.8797855-07:00"
     description: Helm chart for deploying Istio Ingres Gateway
-    digest: c8701c6aa82fb0e042ca51a2e0e8d617920891b6733b1b327ffc1dcce21a3043
+    digest: 0239a2369a8196618fa663644b4a241d270859a431400a196b45ff678474a0b6
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -233,10 +464,10 @@ entries:
     version: 1.10.3
   tetrate-istio:
   - apiVersion: v1
-    created: "2022-07-12T12:16:50.4393121-07:00"
+    created: "2022-07-13T11:37:38.9592189-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 646dd72f05d7c586109cb47ea39ecbecc7bb17ff16a878557befbf1f55c1de5b
+    digest: 18375e6163aa16bc4bdf51d1939ffdf67a3c4fbb76e929080ffe1ca48548559f
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -256,10 +487,10 @@ entries:
     - tetrate-istio-1.13.5.tgz
     version: 1.13.5
   - apiVersion: v1
-    created: "2022-07-12T12:16:50.4326809-07:00"
+    created: "2022-07-13T11:37:38.9524122-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 00834c9ebd9b131d93fbadc828ae71b8f00abd56f22f5aa96129b8ab84ad11f9
+    digest: 95e0df97f63871d59feefc4e704d8f3e1d700156043773906059f8c056ed7b99
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -279,10 +510,10 @@ entries:
     - tetrate-istio-1.13.3.tgz
     version: 1.13.3
   - apiVersion: v1
-    created: "2022-07-12T12:16:50.4258427-07:00"
+    created: "2022-07-13T11:37:38.9457666-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 959f077e64a2abff2f26892abd259d0e00a79fa027452c8d713845a2706fe606
+    digest: 1b343f63f8aa7d37d9515b1059cc02a1a1c56374a8761a7f7c8c51d71ccca70e
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -302,10 +533,10 @@ entries:
     - tetrate-istio-1.13.2.tgz
     version: 1.13.2
   - apiVersion: v1
-    created: "2022-07-12T12:16:50.4189054-07:00"
+    created: "2022-07-13T11:37:38.9389929-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 081f7af158af507ac032e008738d6e6a070133978b0de0920b6e565c4287198b
+    digest: 5f66401a77b1b0a4895c16a6898f193b976bf86abb4e6afbe871cc370f2f3c23
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -325,10 +556,10 @@ entries:
     - tetrate-istio-1.12.8.tgz
     version: 1.12.8
   - apiVersion: v1
-    created: "2022-07-12T12:16:50.4119169-07:00"
+    created: "2022-07-13T11:37:38.9325625-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: f744288526330dcd74d16d13bfd0b24f55e44b5dcc8ecaf53a4002f9118b7f11
+    digest: ed3b8ec28ac3d29d0a93e3c2ad793c2397028024212438edb0159a347b2398f4
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -348,10 +579,10 @@ entries:
     - tetrate-istio-1.12.6.tgz
     version: 1.12.6
   - apiVersion: v1
-    created: "2022-07-12T12:16:50.4046806-07:00"
+    created: "2022-07-13T11:37:38.9211207-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 7b40b416ccbcd7b7d3ee655969a8401f2b6d7b0bd4b9c06c0aa479a02a770a9a
+    digest: 356a338c2a4a0f2cb5804fe478f05d7347973c7bba08c483d522849f2f5df9b0
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -371,10 +602,10 @@ entries:
     - tetrate-istio-1.12.4.tgz
     version: 1.12.4
   - apiVersion: v1
-    created: "2022-07-12T12:16:50.398163-07:00"
+    created: "2022-07-13T11:37:38.914288-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 418d47bce6a5ff94be27b9e852eabd76edf6ac229a10b5b82867f9eb1b9f6393
+    digest: 776fc7faf845f07f4226f13cf0050ccdd8225591f035e9cfd33a1727548cd1eb
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -394,10 +625,10 @@ entries:
     - tetrate-istio-1.11.8.tgz
     version: 1.11.8
   - apiVersion: v1
-    created: "2022-07-12T12:16:50.3918088-07:00"
+    created: "2022-07-13T11:37:38.9041823-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 7431be50ccfe9eee90ac116f311bdad87dde526e63c1ae45d1bb775d34422df2
+    digest: 65a4b1043866481af9ef4d9354c9a13e362f22b9a15181926ec7f84e4bb1612b
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -417,10 +648,10 @@ entries:
     - tetrate-istio-1.11.6.tgz
     version: 1.11.6
   - apiVersion: v1
-    created: "2022-07-12T12:16:50.38512-07:00"
+    created: "2022-07-13T11:37:38.8971532-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 97cf4259fe830e56fa84dbf1d7550d5a559bcbf2528a3d5f0fa40f4d1d6b0eea
+    digest: 6032ca8b06b079177d96a9355a395cbab9a4a71beba8b49fb4127a8a03267c20
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -440,10 +671,10 @@ entries:
     - tetrate-istio-1.11.3.tgz
     version: 1.11.3
   - apiVersion: v1
-    created: "2022-07-12T12:16:50.3771902-07:00"
+    created: "2022-07-13T11:37:38.8906622-07:00"
     description: Tetrate Istio Distro Istiod is simple, safe enterprise-grade Service
       Mesh.
-    digest: 6ccc3cb39c7cad8911955776d9dc459f01acede876ffab7c94d7c8f69b29d956
+    digest: 27a4a50b1926735c859a95b75ed9a51f2fce070f573910a7a62d4b747f7023f9
     home: https://istio.tetratelabs.io
     icon: https://istio.tetratelabs.io/images/getistio-favicon.png
     keywords:
@@ -462,4 +693,4 @@ entries:
     urls:
     - tetrate-istio-1.10.3.tgz
     version: 1.10.3
-generated: "2022-07-12T12:16:50.3606309-07:00"
+generated: "2022-07-13T11:37:38.8041088-07:00"
